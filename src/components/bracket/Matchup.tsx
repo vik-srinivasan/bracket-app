@@ -83,7 +83,7 @@ export default function Matchup({
             e.stopPropagation();
             onOpenDetail(matchup.id);
           }}
-          className="absolute top-0 bottom-0 right-0 w-7 flex items-center justify-center text-slate-600 hover:text-amber-400 hover:bg-slate-700/30 transition-all rounded-r-lg opacity-0 group-hover:opacity-100"
+          className={`absolute top-0 bottom-0 w-7 flex items-center justify-center text-slate-600 hover:text-amber-400 hover:bg-slate-700/30 transition-all opacity-0 group-hover:opacity-100 ${mirrored ? "left-0 rounded-l-lg" : "right-0 rounded-r-lg"}`}
           title="View matchup analytics"
         >
           <svg className="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
