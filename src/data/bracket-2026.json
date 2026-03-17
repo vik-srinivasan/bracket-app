@@ -1,0 +1,112 @@
+{
+  "year": 2026,
+  "regions": {
+    "east": {
+      "name": "East",
+      "location": "Providence, RI",
+      "matchups": [
+        { "id": "east-r1-1", "round": 1, "region": "east", "topTeam": { "seed": 1, "teamId": "duke", "teamName": "Duke" }, "bottomTeam": { "seed": 16, "teamId": "siena", "teamName": "Siena" }, "winnerSlotId": "east-r2-1" },
+        { "id": "east-r1-2", "round": 1, "region": "east", "topTeam": { "seed": 8, "teamId": "ohio-state", "teamName": "Ohio State" }, "bottomTeam": { "seed": 9, "teamId": "tcu", "teamName": "TCU" }, "winnerSlotId": "east-r2-1" },
+        { "id": "east-r1-3", "round": 1, "region": "east", "topTeam": { "seed": 5, "teamId": "st-johns", "teamName": "St. John's" }, "bottomTeam": { "seed": 12, "teamId": "northern-iowa", "teamName": "Northern Iowa" }, "winnerSlotId": "east-r2-2" },
+        { "id": "east-r1-4", "round": 1, "region": "east", "topTeam": { "seed": 4, "teamId": "kansas", "teamName": "Kansas" }, "bottomTeam": { "seed": 13, "teamId": "cal-baptist", "teamName": "Cal Baptist" }, "winnerSlotId": "east-r2-2" },
+        { "id": "east-r1-5", "round": 1, "region": "east", "topTeam": { "seed": 6, "teamId": "louisville", "teamName": "Louisville" }, "bottomTeam": { "seed": 11, "teamId": "south-florida", "teamName": "South Florida" }, "winnerSlotId": "east-r2-3" },
+        { "id": "east-r1-6", "round": 1, "region": "east", "topTeam": { "seed": 3, "teamId": "michigan-state", "teamName": "Michigan State" }, "bottomTeam": { "seed": 14, "teamId": "north-dakota-state", "teamName": "North Dakota State" }, "winnerSlotId": "east-r2-3" },
+        { "id": "east-r1-7", "round": 1, "region": "east", "topTeam": { "seed": 7, "teamId": "ucla", "teamName": "UCLA" }, "bottomTeam": { "seed": 10, "teamId": "ucf", "teamName": "UCF" }, "winnerSlotId": "east-r2-4" },
+        { "id": "east-r1-8", "round": 1, "region": "east", "topTeam": { "seed": 2, "teamId": "uconn", "teamName": "UConn" }, "bottomTeam": { "seed": 15, "teamId": "furman", "teamName": "Furman" }, "winnerSlotId": "east-r2-4" },
+
+        { "id": "east-r2-1", "round": 2, "region": "east", "topTeam": null, "bottomTeam": null, "winnerSlotId": "east-r3-1" },
+        { "id": "east-r2-2", "round": 2, "region": "east", "topTeam": null, "bottomTeam": null, "winnerSlotId": "east-r3-1" },
+        { "id": "east-r2-3", "round": 2, "region": "east", "topTeam": null, "bottomTeam": null, "winnerSlotId": "east-r3-2" },
+        { "id": "east-r2-4", "round": 2, "region": "east", "topTeam": null, "bottomTeam": null, "winnerSlotId": "east-r3-2" },
+
+        { "id": "east-r3-1", "round": 3, "region": "east", "topTeam": null, "bottomTeam": null, "winnerSlotId": "east-r4-1" },
+        { "id": "east-r3-2", "round": 3, "region": "east", "topTeam": null, "bottomTeam": null, "winnerSlotId": "east-r4-1" },
+
+        { "id": "east-r4-1", "round": 4, "region": "east", "topTeam": null, "bottomTeam": null, "winnerSlotId": "ff-semi-1" }
+      ]
+    },
+    "south": {
+      "name": "South",
+      "location": "Newark, NJ",
+      "matchups": [
+        { "id": "south-r1-1", "round": 1, "region": "south", "topTeam": { "seed": 1, "teamId": "florida", "teamName": "Florida" }, "bottomTeam": null, "winnerSlotId": "south-r2-1" },
+        { "id": "south-r1-2", "round": 1, "region": "south", "topTeam": { "seed": 8, "teamId": "clemson", "teamName": "Clemson" }, "bottomTeam": { "seed": 9, "teamId": "iowa", "teamName": "Iowa" }, "winnerSlotId": "south-r2-1" },
+        { "id": "south-r1-3", "round": 1, "region": "south", "topTeam": { "seed": 5, "teamId": "vanderbilt", "teamName": "Vanderbilt" }, "bottomTeam": { "seed": 12, "teamId": "mcneese", "teamName": "McNeese" }, "winnerSlotId": "south-r2-2" },
+        { "id": "south-r1-4", "round": 1, "region": "south", "topTeam": { "seed": 4, "teamId": "nebraska", "teamName": "Nebraska" }, "bottomTeam": { "seed": 13, "teamId": "troy", "teamName": "Troy" }, "winnerSlotId": "south-r2-2" },
+        { "id": "south-r1-5", "round": 1, "region": "south", "topTeam": { "seed": 6, "teamId": "north-carolina", "teamName": "North Carolina" }, "bottomTeam": { "seed": 11, "teamId": "vcu", "teamName": "VCU" }, "winnerSlotId": "south-r2-3" },
+        { "id": "south-r1-6", "round": 1, "region": "south", "topTeam": { "seed": 3, "teamId": "illinois", "teamName": "Illinois" }, "bottomTeam": { "seed": 14, "teamId": "penn", "teamName": "Penn" }, "winnerSlotId": "south-r2-3" },
+        { "id": "south-r1-7", "round": 1, "region": "south", "topTeam": { "seed": 7, "teamId": "st-marys", "teamName": "Saint Mary's" }, "bottomTeam": { "seed": 10, "teamId": "texas-am", "teamName": "Texas A&M" }, "winnerSlotId": "south-r2-4" },
+        { "id": "south-r1-8", "round": 1, "region": "south", "topTeam": { "seed": 2, "teamId": "houston", "teamName": "Houston" }, "bottomTeam": { "seed": 15, "teamId": "idaho", "teamName": "Idaho" }, "winnerSlotId": "south-r2-4" },
+
+        { "id": "south-r2-1", "round": 2, "region": "south", "topTeam": null, "bottomTeam": null, "winnerSlotId": "south-r3-1" },
+        { "id": "south-r2-2", "round": 2, "region": "south", "topTeam": null, "bottomTeam": null, "winnerSlotId": "south-r3-1" },
+        { "id": "south-r2-3", "round": 2, "region": "south", "topTeam": null, "bottomTeam": null, "winnerSlotId": "south-r3-2" },
+        { "id": "south-r2-4", "round": 2, "region": "south", "topTeam": null, "bottomTeam": null, "winnerSlotId": "south-r3-2" },
+
+        { "id": "south-r3-1", "round": 3, "region": "south", "topTeam": null, "bottomTeam": null, "winnerSlotId": "south-r4-1" },
+        { "id": "south-r3-2", "round": 3, "region": "south", "topTeam": null, "bottomTeam": null, "winnerSlotId": "south-r4-1" },
+
+        { "id": "south-r4-1", "round": 4, "region": "south", "topTeam": null, "bottomTeam": null, "winnerSlotId": "ff-semi-1" }
+      ]
+    },
+    "midwest": {
+      "name": "Midwest",
+      "location": "Indianapolis, IN",
+      "matchups": [
+        { "id": "midwest-r1-1", "round": 1, "region": "midwest", "topTeam": { "seed": 1, "teamId": "michigan", "teamName": "Michigan" }, "bottomTeam": null, "winnerSlotId": "midwest-r2-1" },
+        { "id": "midwest-r1-2", "round": 1, "region": "midwest", "topTeam": { "seed": 8, "teamId": "georgia", "teamName": "Georgia" }, "bottomTeam": { "seed": 9, "teamId": "st-louis", "teamName": "Saint Louis" }, "winnerSlotId": "midwest-r2-1" },
+        { "id": "midwest-r1-3", "round": 1, "region": "midwest", "topTeam": { "seed": 5, "teamId": "texas-tech", "teamName": "Texas Tech" }, "bottomTeam": { "seed": 12, "teamId": "akron", "teamName": "Akron" }, "winnerSlotId": "midwest-r2-2" },
+        { "id": "midwest-r1-4", "round": 1, "region": "midwest", "topTeam": { "seed": 4, "teamId": "alabama", "teamName": "Alabama" }, "bottomTeam": { "seed": 13, "teamId": "hofstra", "teamName": "Hofstra" }, "winnerSlotId": "midwest-r2-2" },
+        { "id": "midwest-r1-5", "round": 1, "region": "midwest", "topTeam": { "seed": 6, "teamId": "tennessee", "teamName": "Tennessee" }, "bottomTeam": null, "winnerSlotId": "midwest-r2-3" },
+        { "id": "midwest-r1-6", "round": 1, "region": "midwest", "topTeam": { "seed": 3, "teamId": "virginia", "teamName": "Virginia" }, "bottomTeam": { "seed": 14, "teamId": "wright-state", "teamName": "Wright State" }, "winnerSlotId": "midwest-r2-3" },
+        { "id": "midwest-r1-7", "round": 1, "region": "midwest", "topTeam": { "seed": 7, "teamId": "kentucky", "teamName": "Kentucky" }, "bottomTeam": { "seed": 10, "teamId": "santa-clara", "teamName": "Santa Clara" }, "winnerSlotId": "midwest-r2-4" },
+        { "id": "midwest-r1-8", "round": 1, "region": "midwest", "topTeam": { "seed": 2, "teamId": "iowa-state", "teamName": "Iowa State" }, "bottomTeam": { "seed": 15, "teamId": "tennessee-state", "teamName": "Tennessee State" }, "winnerSlotId": "midwest-r2-4" },
+
+        { "id": "midwest-r2-1", "round": 2, "region": "midwest", "topTeam": null, "bottomTeam": null, "winnerSlotId": "midwest-r3-1" },
+        { "id": "midwest-r2-2", "round": 2, "region": "midwest", "topTeam": null, "bottomTeam": null, "winnerSlotId": "midwest-r3-1" },
+        { "id": "midwest-r2-3", "round": 2, "region": "midwest", "topTeam": null, "bottomTeam": null, "winnerSlotId": "midwest-r3-2" },
+        { "id": "midwest-r2-4", "round": 2, "region": "midwest", "topTeam": null, "bottomTeam": null, "winnerSlotId": "midwest-r3-2" },
+
+        { "id": "midwest-r3-1", "round": 3, "region": "midwest", "topTeam": null, "bottomTeam": null, "winnerSlotId": "midwest-r4-1" },
+        { "id": "midwest-r3-2", "round": 3, "region": "midwest", "topTeam": null, "bottomTeam": null, "winnerSlotId": "midwest-r4-1" },
+
+        { "id": "midwest-r4-1", "round": 4, "region": "midwest", "topTeam": null, "bottomTeam": null, "winnerSlotId": "ff-semi-2" }
+      ]
+    },
+    "west": {
+      "name": "West",
+      "location": "San Antonio, TX",
+      "matchups": [
+        { "id": "west-r1-1", "round": 1, "region": "west", "topTeam": { "seed": 1, "teamId": "arizona", "teamName": "Arizona" }, "bottomTeam": { "seed": 16, "teamId": "liu", "teamName": "Long Island" }, "winnerSlotId": "west-r2-1" },
+        { "id": "west-r1-2", "round": 1, "region": "west", "topTeam": { "seed": 8, "teamId": "villanova", "teamName": "Villanova" }, "bottomTeam": { "seed": 9, "teamId": "utah-state", "teamName": "Utah State" }, "winnerSlotId": "west-r2-1" },
+        { "id": "west-r1-3", "round": 1, "region": "west", "topTeam": { "seed": 5, "teamId": "wisconsin", "teamName": "Wisconsin" }, "bottomTeam": { "seed": 12, "teamId": "high-point", "teamName": "High Point" }, "winnerSlotId": "west-r2-2" },
+        { "id": "west-r1-4", "round": 1, "region": "west", "topTeam": { "seed": 4, "teamId": "arkansas", "teamName": "Arkansas" }, "bottomTeam": { "seed": 13, "teamId": "hawaii", "teamName": "Hawaii" }, "winnerSlotId": "west-r2-2" },
+        { "id": "west-r1-5", "round": 1, "region": "west", "topTeam": { "seed": 6, "teamId": "byu", "teamName": "BYU" }, "bottomTeam": null, "winnerSlotId": "west-r2-3" },
+        { "id": "west-r1-6", "round": 1, "region": "west", "topTeam": { "seed": 3, "teamId": "gonzaga", "teamName": "Gonzaga" }, "bottomTeam": { "seed": 14, "teamId": "kennesaw-state", "teamName": "Kennesaw State" }, "winnerSlotId": "west-r2-3" },
+        { "id": "west-r1-7", "round": 1, "region": "west", "topTeam": { "seed": 7, "teamId": "miami", "teamName": "Miami" }, "bottomTeam": { "seed": 10, "teamId": "missouri", "teamName": "Missouri" }, "winnerSlotId": "west-r2-4" },
+        { "id": "west-r1-8", "round": 1, "region": "west", "topTeam": { "seed": 2, "teamId": "purdue", "teamName": "Purdue" }, "bottomTeam": { "seed": 15, "teamId": "queens", "teamName": "Queens" }, "winnerSlotId": "west-r2-4" },
+
+        { "id": "west-r2-1", "round": 2, "region": "west", "topTeam": null, "bottomTeam": null, "winnerSlotId": "west-r3-1" },
+        { "id": "west-r2-2", "round": 2, "region": "west", "topTeam": null, "bottomTeam": null, "winnerSlotId": "west-r3-1" },
+        { "id": "west-r2-3", "round": 2, "region": "west", "topTeam": null, "bottomTeam": null, "winnerSlotId": "west-r3-2" },
+        { "id": "west-r2-4", "round": 2, "region": "west", "topTeam": null, "bottomTeam": null, "winnerSlotId": "west-r3-2" },
+
+        { "id": "west-r3-1", "round": 3, "region": "west", "topTeam": null, "bottomTeam": null, "winnerSlotId": "west-r4-1" },
+        { "id": "west-r3-2", "round": 3, "region": "west", "topTeam": null, "bottomTeam": null, "winnerSlotId": "west-r4-1" },
+
+        { "id": "west-r4-1", "round": 4, "region": "west", "topTeam": null, "bottomTeam": null, "winnerSlotId": "ff-semi-2" }
+      ]
+    }
+  },
+  "finalFour": [
+    { "id": "ff-semi-1", "round": 5, "region": "finalfour", "topTeam": null, "bottomTeam": null, "winnerSlotId": "ff-championship" },
+    { "id": "ff-semi-2", "round": 5, "region": "finalfour", "topTeam": null, "bottomTeam": null, "winnerSlotId": "ff-championship" },
+    { "id": "ff-championship", "round": 6, "region": "finalfour", "topTeam": null, "bottomTeam": null, "winnerSlotId": null }
+  ],
+  "firstFour": [
+    { "id": "ff4-west-11", "round": 0, "region": "firstfour", "topTeam": { "seed": 11, "teamId": "texas", "teamName": "Texas" }, "bottomTeam": { "seed": 11, "teamId": "nc-state", "teamName": "NC State" }, "winnerSlotId": "west-r1-5" },
+    { "id": "ff4-midwest-11", "round": 0, "region": "firstfour", "topTeam": { "seed": 11, "teamId": "miami-oh", "teamName": "Miami OH" }, "bottomTeam": { "seed": 11, "teamId": "smu", "teamName": "SMU" }, "winnerSlotId": "midwest-r1-5" },
+    { "id": "ff4-midwest-16", "round": 0, "region": "firstfour", "topTeam": { "seed": 16, "teamId": "umbc", "teamName": "UMBC" }, "bottomTeam": { "seed": 16, "teamId": "howard", "teamName": "Howard" }, "winnerSlotId": "midwest-r1-1" },
+    { "id": "ff4-south-16", "round": 0, "region": "firstfour", "topTeam": { "seed": 16, "teamId": "prairie-view", "teamName": "Prairie View" }, "bottomTeam": { "seed": 16, "teamId": "lehigh", "teamName": "Lehigh" }, "winnerSlotId": "south-r1-1" }
+  ]
+}

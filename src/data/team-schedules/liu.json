@@ -1,0 +1,352 @@
+[
+  {
+    "date": "2025-11-04T00:00Z",
+    "opponent": "Notre Dame Fighting Irish",
+    "isHome": false,
+    "isNeutral": false,
+    "result": "L",
+    "score": "67-89",
+    "teamScore": 67,
+    "opponentScore": 89
+  },
+  {
+    "date": "2025-11-06T23:30Z",
+    "opponent": "IU Indianapolis Jaguars",
+    "isHome": false,
+    "isNeutral": false,
+    "result": "W",
+    "score": "94-90",
+    "teamScore": 94,
+    "opponentScore": 90
+  },
+  {
+    "date": "2025-11-11T21:00Z",
+    "opponent": "Air Force Falcons",
+    "isHome": false,
+    "isNeutral": false,
+    "result": "W",
+    "score": "76-72",
+    "teamScore": 76,
+    "opponentScore": 72
+  },
+  {
+    "date": "2025-11-16T00:00Z",
+    "opponent": "James Madison Dukes",
+    "isHome": true,
+    "isNeutral": false,
+    "result": "W",
+    "score": "88-79",
+    "teamScore": 88,
+    "opponentScore": 79
+  },
+  {
+    "date": "2025-11-21T00:00Z",
+    "opponent": "Fordham Rams",
+    "isHome": false,
+    "isNeutral": false,
+    "result": "L",
+    "score": "53-69",
+    "teamScore": 53,
+    "opponentScore": 69
+  },
+  {
+    "date": "2025-11-22T19:00Z",
+    "opponent": "Illinois Fighting Illini",
+    "isHome": false,
+    "isNeutral": false,
+    "result": "L",
+    "score": "58-98",
+    "teamScore": 58,
+    "opponentScore": 98
+  },
+  {
+    "date": "2025-11-25T01:00Z",
+    "opponent": "Missouri State Bears",
+    "isHome": false,
+    "isNeutral": false,
+    "result": "W",
+    "score": "75-61",
+    "teamScore": 75,
+    "opponentScore": 61
+  },
+  {
+    "date": "2025-12-03T00:30Z",
+    "opponent": "Winthrop Eagles",
+    "isHome": true,
+    "isNeutral": false,
+    "result": "L",
+    "score": "92-94",
+    "teamScore": 92,
+    "opponentScore": 94
+  },
+  {
+    "date": "2025-12-06T22:00Z",
+    "opponent": "Lehigh Mountain Hawks",
+    "isHome": false,
+    "isNeutral": false,
+    "result": "W",
+    "score": "87-82",
+    "teamScore": 87,
+    "opponentScore": 82
+  },
+  {
+    "date": "2025-12-13T21:00Z",
+    "opponent": "La Salle Explorers",
+    "isHome": true,
+    "isNeutral": false,
+    "result": "W",
+    "score": "70-60",
+    "teamScore": 70,
+    "opponentScore": 60
+  },
+  {
+    "date": "2025-12-17T00:30Z",
+    "opponent": "Mississippi State Bulldogs",
+    "isHome": false,
+    "isNeutral": false,
+    "result": "L",
+    "score": "83-87",
+    "teamScore": 83,
+    "opponentScore": 87
+  },
+  {
+    "date": "2025-12-20T22:00Z",
+    "opponent": "Florida International Panthers",
+    "isHome": false,
+    "isNeutral": false,
+    "result": "L",
+    "score": "79-86",
+    "teamScore": 79,
+    "opponentScore": 86
+  },
+  {
+    "date": "2025-12-30T00:00Z",
+    "opponent": "Georgia Bulldogs",
+    "isHome": false,
+    "isNeutral": false,
+    "result": "L",
+    "score": "74-89",
+    "teamScore": 74,
+    "opponentScore": 89
+  },
+  {
+    "date": "2026-01-03T00:00Z",
+    "opponent": "Central Connecticut Blue Devils",
+    "isHome": true,
+    "isNeutral": false,
+    "result": "W",
+    "score": "84-78",
+    "teamScore": 84,
+    "opponentScore": 78
+  },
+  {
+    "date": "2026-01-04T19:00Z",
+    "opponent": "Chicago State Cougars",
+    "isHome": false,
+    "isNeutral": false,
+    "result": "W",
+    "score": "74-55",
+    "teamScore": 74,
+    "opponentScore": 55
+  },
+  {
+    "date": "2026-01-09T00:00Z",
+    "opponent": "Mercyhurst Lakers",
+    "isHome": true,
+    "isNeutral": false,
+    "result": "W",
+    "score": "60-58",
+    "teamScore": 60,
+    "opponentScore": 58
+  },
+  {
+    "date": "2026-01-10T21:00Z",
+    "opponent": "Saint Francis Red Flash",
+    "isHome": true,
+    "isNeutral": false,
+    "result": "W",
+    "score": "67-63",
+    "teamScore": 67,
+    "opponentScore": 63
+  },
+  {
+    "date": "2026-01-18T00:00Z",
+    "opponent": "Fairleigh Dickinson Knights",
+    "isHome": false,
+    "isNeutral": false,
+    "result": "W",
+    "score": "66-59",
+    "teamScore": 66,
+    "opponentScore": 59
+  },
+  {
+    "date": "2026-01-19T20:00Z",
+    "opponent": "Le Moyne Dolphins",
+    "isHome": false,
+    "isNeutral": false,
+    "result": "L",
+    "score": "77-83",
+    "teamScore": 77,
+    "opponentScore": 83
+  },
+  {
+    "date": "2026-01-24T00:00Z",
+    "opponent": "Stonehill Skyhawks",
+    "isHome": false,
+    "isNeutral": false,
+    "result": "W",
+    "score": "66-63",
+    "teamScore": 66,
+    "opponentScore": 63
+  },
+  {
+    "date": "2026-01-27T00:00Z",
+    "opponent": "Wagner Seahawks",
+    "isHome": true,
+    "isNeutral": false,
+    "result": null,
+    "score": "0-0",
+    "teamScore": 0,
+    "opponentScore": 0
+  },
+  {
+    "date": "2026-01-30T00:00Z",
+    "opponent": "Le Moyne Dolphins",
+    "isHome": true,
+    "isNeutral": false,
+    "result": "W",
+    "score": "83-61",
+    "teamScore": 83,
+    "opponentScore": 61
+  },
+  {
+    "date": "2026-01-31T19:00Z",
+    "opponent": "Central Connecticut Blue Devils",
+    "isHome": false,
+    "isNeutral": false,
+    "result": "W",
+    "score": "80-59",
+    "teamScore": 80,
+    "opponentScore": 59
+  },
+  {
+    "date": "2026-02-06T00:00Z",
+    "opponent": "New Haven Chargers",
+    "isHome": true,
+    "isNeutral": false,
+    "result": "W",
+    "score": "60-55",
+    "teamScore": 60,
+    "opponentScore": 55
+  },
+  {
+    "date": "2026-02-07T21:00Z",
+    "opponent": "Stonehill Skyhawks",
+    "isHome": true,
+    "isNeutral": false,
+    "result": "W",
+    "score": "61-54",
+    "teamScore": 61,
+    "opponentScore": 54
+  },
+  {
+    "date": "2026-02-13T00:00Z",
+    "opponent": "Wagner Seahawks",
+    "isHome": false,
+    "isNeutral": false,
+    "result": "W",
+    "score": "67-57",
+    "teamScore": 67,
+    "opponentScore": 57
+  },
+  {
+    "date": "2026-02-14T18:00Z",
+    "opponent": "New Haven Chargers",
+    "isHome": false,
+    "isNeutral": false,
+    "result": "L",
+    "score": "52-55",
+    "teamScore": 52,
+    "opponentScore": 55
+  },
+  {
+    "date": "2026-02-17T00:00Z",
+    "opponent": "Wagner Seahawks",
+    "isHome": true,
+    "isNeutral": false,
+    "result": "W",
+    "score": "83-65",
+    "teamScore": 83,
+    "opponentScore": 65
+  },
+  {
+    "date": "2026-02-20T00:00Z",
+    "opponent": "Saint Francis Red Flash",
+    "isHome": false,
+    "isNeutral": false,
+    "result": "W",
+    "score": "91-89",
+    "teamScore": 91,
+    "opponentScore": 89
+  },
+  {
+    "date": "2026-02-21T19:00Z",
+    "opponent": "Mercyhurst Lakers",
+    "isHome": false,
+    "isNeutral": false,
+    "result": "L",
+    "score": "83-91",
+    "teamScore": 83,
+    "opponentScore": 91
+  },
+  {
+    "date": "2026-02-27T00:00Z",
+    "opponent": "Chicago State Cougars",
+    "isHome": true,
+    "isNeutral": false,
+    "result": "W",
+    "score": "73-56",
+    "teamScore": 73,
+    "opponentScore": 56
+  },
+  {
+    "date": "2026-02-28T18:00Z",
+    "opponent": "Fairleigh Dickinson Knights",
+    "isHome": true,
+    "isNeutral": false,
+    "result": "W",
+    "score": "74-60",
+    "teamScore": 74,
+    "opponentScore": 60
+  },
+  {
+    "date": "2026-03-05T00:00Z",
+    "opponent": "Chicago State Cougars",
+    "isHome": true,
+    "isNeutral": false,
+    "result": "W",
+    "score": "79-75",
+    "teamScore": 79,
+    "opponentScore": 75
+  },
+  {
+    "date": "2026-03-07T19:00Z",
+    "opponent": "Wagner Seahawks",
+    "isHome": true,
+    "isNeutral": false,
+    "result": "W",
+    "score": "64-56",
+    "teamScore": 64,
+    "opponentScore": 56
+  },
+  {
+    "date": "2026-03-10T23:00Z",
+    "opponent": "Mercyhurst Lakers",
+    "isHome": true,
+    "isNeutral": false,
+    "result": "W",
+    "score": "79-70",
+    "teamScore": 79,
+    "opponentScore": 70
+  }
+]

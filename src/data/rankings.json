@@ -1,0 +1,578 @@
+{
+  "duke": {
+    "netRank": 1,
+    "kpiRank": null,
+    "sorRank": null,
+    "kenpomRank": null,
+    "rpiRank": null,
+    "sosRank": null,
+    "quadRecord": null
+  },
+  "siena": {
+    "netRank": 183,
+    "kpiRank": null,
+    "sorRank": null,
+    "kenpomRank": null,
+    "rpiRank": null,
+    "sosRank": null,
+    "quadRecord": null
+  },
+  "villanova": {
+    "netRank": 35,
+    "kpiRank": null,
+    "sorRank": null,
+    "kenpomRank": null,
+    "rpiRank": null,
+    "sosRank": null,
+    "quadRecord": null
+  },
+  "georgia": {
+    "netRank": 33,
+    "kpiRank": null,
+    "sorRank": null,
+    "kenpomRank": null,
+    "rpiRank": null,
+    "sosRank": null,
+    "quadRecord": null
+  },
+  "kansas": {
+    "netRank": 21,
+    "kpiRank": null,
+    "sorRank": null,
+    "kenpomRank": null,
+    "rpiRank": null,
+    "sosRank": null,
+    "quadRecord": null
+  },
+  "northern-iowa": {
+    "netRank": 72,
+    "kpiRank": null,
+    "sorRank": null,
+    "kenpomRank": null,
+    "rpiRank": null,
+    "sosRank": null,
+    "quadRecord": null
+  },
+  "alabama": {
+    "netRank": 18,
+    "kpiRank": null,
+    "sorRank": null,
+    "kenpomRank": null,
+    "rpiRank": null,
+    "sosRank": null,
+    "quadRecord": null
+  },
+  "north-dakota-state": {
+    "netRank": 114,
+    "kpiRank": null,
+    "sorRank": null,
+    "kenpomRank": null,
+    "rpiRank": null,
+    "sosRank": null,
+    "quadRecord": null
+  },
+  "louisville": {
+    "netRank": 16,
+    "kpiRank": null,
+    "sorRank": null,
+    "kenpomRank": null,
+    "rpiRank": null,
+    "sosRank": null,
+    "quadRecord": null
+  },
+  "south-florida": {
+    "netRank": 45,
+    "kpiRank": null,
+    "sorRank": null,
+    "kenpomRank": null,
+    "rpiRank": null,
+    "sosRank": null,
+    "quadRecord": null
+  },
+  "michigan-state": {
+    "netRank": 11,
+    "kpiRank": null,
+    "sorRank": null,
+    "kenpomRank": null,
+    "rpiRank": null,
+    "sosRank": null,
+    "quadRecord": null
+  },
+  "tennessee-state": {
+    "netRank": 172,
+    "kpiRank": null,
+    "sorRank": null,
+    "kenpomRank": null,
+    "rpiRank": null,
+    "sosRank": null,
+    "quadRecord": null
+  },
+  "ucla": {
+    "netRank": 31,
+    "kpiRank": null,
+    "sorRank": null,
+    "kenpomRank": null,
+    "rpiRank": null,
+    "sosRank": null,
+    "quadRecord": null
+  },
+  "santa-clara": {
+    "netRank": 40,
+    "kpiRank": null,
+    "sorRank": null,
+    "kenpomRank": null,
+    "rpiRank": null,
+    "sosRank": null,
+    "quadRecord": null
+  },
+  "iowa-state": {
+    "netRank": 7,
+    "kpiRank": null,
+    "sorRank": null,
+    "kenpomRank": null,
+    "rpiRank": null,
+    "sosRank": null,
+    "quadRecord": null
+  },
+  "queens": {
+    "netRank": 189,
+    "kpiRank": null,
+    "sorRank": null,
+    "kenpomRank": null,
+    "rpiRank": null,
+    "sosRank": null,
+    "quadRecord": null
+  },
+  "florida": {
+    "netRank": 4,
+    "kpiRank": null,
+    "sorRank": null,
+    "kenpomRank": null,
+    "rpiRank": null,
+    "sosRank": null,
+    "quadRecord": null
+  },
+  "lehigh": {
+    "netRank": 275,
+    "kpiRank": null,
+    "sorRank": null,
+    "kenpomRank": null,
+    "rpiRank": null,
+    "sosRank": null,
+    "quadRecord": null
+  },
+  "ohio-state": {
+    "netRank": 29,
+    "kpiRank": null,
+    "sorRank": null,
+    "kenpomRank": null,
+    "rpiRank": null,
+    "sosRank": null,
+    "quadRecord": null
+  },
+  "st-louis": {
+    "netRank": 30,
+    "kpiRank": null,
+    "sorRank": null,
+    "kenpomRank": null,
+    "rpiRank": null,
+    "sosRank": null,
+    "quadRecord": null
+  },
+  "wisconsin": {
+    "netRank": 25,
+    "kpiRank": null,
+    "sorRank": null,
+    "kenpomRank": null,
+    "rpiRank": null,
+    "sosRank": null,
+    "quadRecord": null
+  },
+  "akron": {
+    "netRank": 54,
+    "kpiRank": null,
+    "sorRank": null,
+    "kenpomRank": null,
+    "rpiRank": null,
+    "sosRank": null,
+    "quadRecord": null
+  },
+  "gonzaga": {
+    "netRank": 6,
+    "kpiRank": null,
+    "sorRank": null,
+    "kenpomRank": null,
+    "rpiRank": null,
+    "sosRank": null,
+    "quadRecord": null
+  },
+  "hawaii": {
+    "netRank": 101,
+    "kpiRank": null,
+    "sorRank": null,
+    "kenpomRank": null,
+    "rpiRank": null,
+    "sosRank": null,
+    "quadRecord": null
+  },
+  "byu": {
+    "netRank": 23,
+    "kpiRank": null,
+    "sorRank": null,
+    "kenpomRank": null,
+    "rpiRank": null,
+    "sosRank": null,
+    "quadRecord": null
+  },
+  "smu": {
+    "netRank": 37,
+    "kpiRank": null,
+    "sorRank": null,
+    "kenpomRank": null,
+    "rpiRank": null,
+    "sosRank": null,
+    "quadRecord": null
+  },
+  "illinois": {
+    "netRank": 8,
+    "kpiRank": null,
+    "sorRank": null,
+    "kenpomRank": null,
+    "rpiRank": null,
+    "sosRank": null,
+    "quadRecord": null
+  },
+  "troy": {
+    "netRank": 125,
+    "kpiRank": null,
+    "sorRank": null,
+    "kenpomRank": null,
+    "rpiRank": null,
+    "sosRank": null,
+    "quadRecord": null
+  },
+  "miami": {
+    "netRank": 32,
+    "kpiRank": null,
+    "sorRank": null,
+    "kenpomRank": null,
+    "rpiRank": null,
+    "sosRank": null,
+    "quadRecord": null
+  },
+  "texas-am": {
+    "netRank": 44,
+    "kpiRank": null,
+    "sorRank": null,
+    "kenpomRank": null,
+    "rpiRank": null,
+    "sosRank": null,
+    "quadRecord": null
+  },
+  "houston": {
+    "netRank": 5,
+    "kpiRank": null,
+    "sorRank": null,
+    "kenpomRank": null,
+    "rpiRank": null,
+    "sosRank": null,
+    "quadRecord": null
+  },
+  "furman": {
+    "netRank": 186,
+    "kpiRank": null,
+    "sorRank": null,
+    "kenpomRank": null,
+    "rpiRank": null,
+    "sosRank": null,
+    "quadRecord": null
+  },
+  "michigan": {
+    "netRank": 2,
+    "kpiRank": null,
+    "sorRank": null,
+    "kenpomRank": null,
+    "rpiRank": null,
+    "sosRank": null,
+    "quadRecord": null
+  },
+  "liu": {
+    "netRank": 198,
+    "kpiRank": null,
+    "sorRank": null,
+    "kenpomRank": null,
+    "rpiRank": null,
+    "sosRank": null,
+    "quadRecord": null
+  },
+  "utah-state": {
+    "netRank": 26,
+    "kpiRank": null,
+    "sorRank": null,
+    "kenpomRank": null,
+    "rpiRank": null,
+    "sosRank": null,
+    "quadRecord": null
+  },
+  "tcu": {
+    "netRank": 39,
+    "kpiRank": null,
+    "sorRank": null,
+    "kenpomRank": null,
+    "rpiRank": null,
+    "sosRank": null,
+    "quadRecord": null
+  },
+  "texas-tech": {
+    "netRank": 19,
+    "kpiRank": null,
+    "sorRank": null,
+    "kenpomRank": null,
+    "rpiRank": null,
+    "sosRank": null,
+    "quadRecord": null
+  },
+  "high-point": {
+    "netRank": 76,
+    "kpiRank": null,
+    "sorRank": null,
+    "kenpomRank": null,
+    "rpiRank": null,
+    "sosRank": null,
+    "quadRecord": null
+  },
+  "arkansas": {
+    "netRank": 17,
+    "kpiRank": null,
+    "sorRank": null,
+    "kenpomRank": null,
+    "rpiRank": null,
+    "sosRank": null,
+    "quadRecord": null
+  },
+  "cal-baptist": {
+    "netRank": 98,
+    "kpiRank": null,
+    "sorRank": null,
+    "kenpomRank": null,
+    "rpiRank": null,
+    "sosRank": null,
+    "quadRecord": null
+  },
+  "north-carolina": {
+    "netRank": 24,
+    "kpiRank": null,
+    "sorRank": null,
+    "kenpomRank": null,
+    "rpiRank": null,
+    "sosRank": null,
+    "quadRecord": null
+  },
+  "missouri": {
+    "netRank": 58,
+    "kpiRank": null,
+    "sorRank": null,
+    "kenpomRank": null,
+    "rpiRank": null,
+    "sosRank": null,
+    "quadRecord": null
+  },
+  "nebraska": {
+    "netRank": 14,
+    "kpiRank": null,
+    "sorRank": null,
+    "kenpomRank": null,
+    "rpiRank": null,
+    "sosRank": null,
+    "quadRecord": null
+  },
+  "jackson-state": {
+    "netRank": 347,
+    "kpiRank": null,
+    "sorRank": null,
+    "kenpomRank": null,
+    "rpiRank": null,
+    "sosRank": null,
+    "quadRecord": null
+  },
+  "kentucky": {
+    "netRank": 28,
+    "kpiRank": null,
+    "sorRank": null,
+    "kenpomRank": null,
+    "rpiRank": null,
+    "sosRank": null,
+    "quadRecord": null
+  },
+  "nc-state": {
+    "netRank": 36,
+    "kpiRank": null,
+    "sorRank": null,
+    "kenpomRank": null,
+    "rpiRank": null,
+    "sosRank": null,
+    "quadRecord": null
+  },
+  "uconn": {
+    "netRank": 10,
+    "kpiRank": null,
+    "sorRank": null,
+    "kenpomRank": null,
+    "rpiRank": null,
+    "sosRank": null,
+    "quadRecord": null
+  },
+  "umbc": {
+    "netRank": 196,
+    "kpiRank": null,
+    "sorRank": null,
+    "kenpomRank": null,
+    "rpiRank": null,
+    "sosRank": null,
+    "quadRecord": null
+  },
+  "arizona": {
+    "netRank": 3,
+    "kpiRank": null,
+    "sorRank": null,
+    "kenpomRank": null,
+    "rpiRank": null,
+    "sosRank": null,
+    "quadRecord": null
+  },
+  "howard": {
+    "netRank": 203,
+    "kpiRank": null,
+    "sorRank": null,
+    "kenpomRank": null,
+    "rpiRank": null,
+    "sosRank": null,
+    "quadRecord": null
+  },
+  "clemson": {
+    "netRank": 34,
+    "kpiRank": null,
+    "sorRank": null,
+    "kenpomRank": null,
+    "rpiRank": null,
+    "sosRank": null,
+    "quadRecord": null
+  },
+  "iowa": {
+    "netRank": 27,
+    "kpiRank": null,
+    "sorRank": null,
+    "kenpomRank": null,
+    "rpiRank": null,
+    "sosRank": null,
+    "quadRecord": null
+  },
+  "st-johns": {
+    "netRank": 15,
+    "kpiRank": null,
+    "sorRank": null,
+    "kenpomRank": null,
+    "rpiRank": null,
+    "sosRank": null,
+    "quadRecord": null
+  },
+  "mcneese": {
+    "netRank": 56,
+    "kpiRank": null,
+    "sorRank": null,
+    "kenpomRank": null,
+    "rpiRank": null,
+    "sosRank": null,
+    "quadRecord": null
+  },
+  "vanderbilt": {
+    "netRank": 13,
+    "kpiRank": null,
+    "sorRank": null,
+    "kenpomRank": null,
+    "rpiRank": null,
+    "sosRank": null,
+    "quadRecord": null
+  },
+  "hofstra": {
+    "netRank": 88,
+    "kpiRank": null,
+    "sorRank": null,
+    "kenpomRank": null,
+    "rpiRank": null,
+    "sosRank": null,
+    "quadRecord": null
+  },
+  "tennessee": {
+    "netRank": 20,
+    "kpiRank": null,
+    "sorRank": null,
+    "kenpomRank": null,
+    "rpiRank": null,
+    "sosRank": null,
+    "quadRecord": null
+  },
+  "vcu": {
+    "netRank": 43,
+    "kpiRank": null,
+    "sorRank": null,
+    "kenpomRank": null,
+    "rpiRank": null,
+    "sosRank": null,
+    "quadRecord": null
+  },
+  "virginia": {
+    "netRank": 12,
+    "kpiRank": null,
+    "sorRank": null,
+    "kenpomRank": null,
+    "rpiRank": null,
+    "sosRank": null,
+    "quadRecord": null
+  },
+  "kennesaw-state": {
+    "netRank": 155,
+    "kpiRank": null,
+    "sorRank": null,
+    "kenpomRank": null,
+    "rpiRank": null,
+    "sosRank": null,
+    "quadRecord": null
+  },
+  "st-marys": {
+    "netRank": 22,
+    "kpiRank": null,
+    "sorRank": null,
+    "kenpomRank": null,
+    "rpiRank": null,
+    "sosRank": null,
+    "quadRecord": null
+  },
+  "ucf": {
+    "netRank": 51,
+    "kpiRank": null,
+    "sorRank": null,
+    "kenpomRank": null,
+    "rpiRank": null,
+    "sosRank": null,
+    "quadRecord": null
+  },
+  "purdue": {
+    "netRank": 9,
+    "kpiRank": null,
+    "sorRank": null,
+    "kenpomRank": null,
+    "rpiRank": null,
+    "sosRank": null,
+    "quadRecord": null
+  },
+  "penn": {
+    "netRank": 148,
+    "kpiRank": null,
+    "sorRank": null,
+    "kenpomRank": null,
+    "rpiRank": null,
+    "sosRank": null,
+    "quadRecord": null
+  }
+}

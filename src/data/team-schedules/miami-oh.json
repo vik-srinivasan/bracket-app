@@ -1,0 +1,322 @@
+[
+  {
+    "date": "2025-11-04T00:00Z",
+    "opponent": "Old Dominion Monarchs",
+    "isHome": true,
+    "isNeutral": false,
+    "result": "W",
+    "score": "87-72",
+    "teamScore": 87,
+    "opponentScore": 72
+  },
+  {
+    "date": "2025-11-08T00:30Z",
+    "opponent": "Trinity Christian (IL) Trolls",
+    "isHome": true,
+    "isNeutral": false,
+    "result": "W",
+    "score": "129-49",
+    "teamScore": 129,
+    "opponentScore": 49
+  },
+  {
+    "date": "2025-11-15T19:00Z",
+    "opponent": "Air Force Falcons",
+    "isHome": false,
+    "isNeutral": false,
+    "result": "W",
+    "score": "76-61",
+    "teamScore": 76,
+    "opponentScore": 61
+  },
+  {
+    "date": "2025-11-21T00:00Z",
+    "opponent": "Mercyhurst Lakers",
+    "isHome": true,
+    "isNeutral": false,
+    "result": "W",
+    "score": "76-71",
+    "teamScore": 76,
+    "opponentScore": 71
+  },
+  {
+    "date": "2025-11-23T18:00Z",
+    "opponent": "Arkansas-Pine Bluff Golden Lions",
+    "isHome": true,
+    "isNeutral": false,
+    "result": "W",
+    "score": "111-84",
+    "teamScore": 111,
+    "opponentScore": 84
+  },
+  {
+    "date": "2025-11-26T19:00Z",
+    "opponent": "UNC Greensboro Spartans",
+    "isHome": false,
+    "isNeutral": true,
+    "result": "W",
+    "score": "82-71",
+    "teamScore": 82,
+    "opponentScore": 71
+  },
+  {
+    "date": "2025-12-03T00:00Z",
+    "opponent": "Indiana University East IU EAST",
+    "isHome": true,
+    "isNeutral": false,
+    "result": "W",
+    "score": "109-65",
+    "teamScore": 109,
+    "opponentScore": 65
+  },
+  {
+    "date": "2025-12-06T18:00Z",
+    "opponent": "Maine Black Bears",
+    "isHome": true,
+    "isNeutral": false,
+    "result": "W",
+    "score": "93-61",
+    "teamScore": 93,
+    "opponentScore": 61
+  },
+  {
+    "date": "2025-12-10T23:00Z",
+    "opponent": "UNC Asheville Bulldogs",
+    "isHome": false,
+    "isNeutral": false,
+    "result": "W",
+    "score": "90-87",
+    "teamScore": 90,
+    "opponentScore": 87
+  },
+  {
+    "date": "2025-12-13T20:00Z",
+    "opponent": "Eastern Kentucky Colonels",
+    "isHome": false,
+    "isNeutral": false,
+    "result": "W",
+    "score": "79-69",
+    "teamScore": 79,
+    "opponentScore": 69
+  },
+  {
+    "date": "2025-12-17T00:00Z",
+    "opponent": "Wright State Raiders",
+    "isHome": false,
+    "isNeutral": false,
+    "result": "W",
+    "score": "83-76",
+    "teamScore": 83,
+    "opponentScore": 76
+  },
+  {
+    "date": "2025-12-20T19:00Z",
+    "opponent": "Ball State Cardinals",
+    "isHome": false,
+    "isNeutral": false,
+    "result": "W",
+    "score": "86-77",
+    "teamScore": 86,
+    "opponentScore": 77
+  },
+  {
+    "date": "2025-12-22T18:00Z",
+    "opponent": "Milligan Buffaloes",
+    "isHome": true,
+    "isNeutral": false,
+    "result": "W",
+    "score": "135-81",
+    "teamScore": 135,
+    "opponentScore": 81
+  },
+  {
+    "date": "2025-12-31T00:00Z",
+    "opponent": "Bowling Green Falcons",
+    "isHome": false,
+    "isNeutral": false,
+    "result": "W",
+    "score": "93-83",
+    "teamScore": 93,
+    "opponentScore": 83
+  },
+  {
+    "date": "2026-01-03T20:30Z",
+    "opponent": "Akron Zips",
+    "isHome": true,
+    "isNeutral": false,
+    "result": "W",
+    "score": "76-73",
+    "teamScore": 76,
+    "opponentScore": 73
+  },
+  {
+    "date": "2026-01-07T00:00Z",
+    "opponent": "Western Michigan Broncos",
+    "isHome": true,
+    "isNeutral": false,
+    "result": "W",
+    "score": "87-76",
+    "teamScore": 87,
+    "opponentScore": 76
+  },
+  {
+    "date": "2026-01-09T23:00Z",
+    "opponent": "Toledo Rockets",
+    "isHome": false,
+    "isNeutral": false,
+    "result": "W",
+    "score": "87-73",
+    "teamScore": 87,
+    "opponentScore": 73
+  },
+  {
+    "date": "2026-01-14T00:00Z",
+    "opponent": "Central Michigan Chippewas",
+    "isHome": true,
+    "isNeutral": false,
+    "result": "W",
+    "score": "100-61",
+    "teamScore": 100,
+    "opponentScore": 61
+  },
+  {
+    "date": "2026-01-17T18:00Z",
+    "opponent": "Buffalo Bulls",
+    "isHome": true,
+    "isNeutral": false,
+    "result": "W",
+    "score": "105-102",
+    "teamScore": 105,
+    "opponentScore": 102
+  },
+  {
+    "date": "2026-01-21T00:00Z",
+    "opponent": "Kent State Golden Flashes",
+    "isHome": false,
+    "isNeutral": false,
+    "result": "W",
+    "score": "107-101",
+    "teamScore": 107,
+    "opponentScore": 101
+  },
+  {
+    "date": "2026-01-28T02:00Z",
+    "opponent": "Massachusetts Minutemen",
+    "isHome": true,
+    "isNeutral": false,
+    "result": "W",
+    "score": "86-84",
+    "teamScore": 86,
+    "opponentScore": 84
+  },
+  {
+    "date": "2026-01-31T20:30Z",
+    "opponent": "Northern Illinois Huskies",
+    "isHome": true,
+    "isNeutral": false,
+    "result": "W",
+    "score": "85-61",
+    "teamScore": 85,
+    "opponentScore": 61
+  },
+  {
+    "date": "2026-02-03T23:30Z",
+    "opponent": "Buffalo Bulls",
+    "isHome": false,
+    "isNeutral": false,
+    "result": "W",
+    "score": "73-71",
+    "teamScore": 73,
+    "opponentScore": 71
+  },
+  {
+    "date": "2026-02-07T21:00Z",
+    "opponent": "Marshall Thundering Herd",
+    "isHome": false,
+    "isNeutral": false,
+    "result": "W",
+    "score": "90-74",
+    "teamScore": 90,
+    "opponentScore": 74
+  },
+  {
+    "date": "2026-02-14T02:10Z",
+    "opponent": "Ohio Bobcats",
+    "isHome": true,
+    "isNeutral": false,
+    "result": "W",
+    "score": "90-74",
+    "teamScore": 90,
+    "opponentScore": 74
+  },
+  {
+    "date": "2026-02-18T00:00Z",
+    "opponent": "Massachusetts Minutemen",
+    "isHome": false,
+    "isNeutral": false,
+    "result": "W",
+    "score": "86-77",
+    "teamScore": 86,
+    "opponentScore": 77
+  },
+  {
+    "date": "2026-02-21T01:30Z",
+    "opponent": "Bowling Green Falcons",
+    "isHome": true,
+    "isNeutral": false,
+    "result": "W",
+    "score": "91-77",
+    "teamScore": 91,
+    "opponentScore": 77
+  },
+  {
+    "date": "2026-02-24T23:30Z",
+    "opponent": "Eastern Michigan Eagles",
+    "isHome": false,
+    "isNeutral": false,
+    "result": "W",
+    "score": "74-64",
+    "teamScore": 74,
+    "opponentScore": 64
+  },
+  {
+    "date": "2026-02-27T23:00Z",
+    "opponent": "Western Michigan Broncos",
+    "isHome": false,
+    "isNeutral": false,
+    "result": "W",
+    "score": "69-67",
+    "teamScore": 69,
+    "opponentScore": 67
+  },
+  {
+    "date": "2026-03-04T00:00Z",
+    "opponent": "Toledo Rockets",
+    "isHome": true,
+    "isNeutral": false,
+    "result": "W",
+    "score": "74-72",
+    "teamScore": 74,
+    "opponentScore": 72
+  },
+  {
+    "date": "2026-03-07T02:10Z",
+    "opponent": "Ohio Bobcats",
+    "isHome": false,
+    "isNeutral": false,
+    "result": "W",
+    "score": "110-108",
+    "teamScore": 110,
+    "opponentScore": 108
+  },
+  {
+    "date": "2026-03-12T15:00Z",
+    "opponent": "Massachusetts Minutemen",
+    "isHome": true,
+    "isNeutral": true,
+    "result": "L",
+    "score": "83-87",
+    "teamScore": 83,
+    "opponentScore": 87
+  }
+]

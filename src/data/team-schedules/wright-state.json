@@ -1,0 +1,342 @@
+[
+  {
+    "date": "2025-11-04T00:00Z",
+    "opponent": "Franklin Grizzlies",
+    "isHome": true,
+    "isNeutral": false,
+    "result": "W",
+    "score": "86-37",
+    "teamScore": 86,
+    "opponentScore": 37
+  },
+  {
+    "date": "2025-11-07T03:00Z",
+    "opponent": "California Golden Bears",
+    "isHome": false,
+    "isNeutral": false,
+    "result": "L",
+    "score": "67-77",
+    "teamScore": 67,
+    "opponentScore": 77
+  },
+  {
+    "date": "2025-11-12T00:00Z",
+    "opponent": "Toledo Rockets",
+    "isHome": true,
+    "isNeutral": false,
+    "result": "L",
+    "score": "71-81",
+    "teamScore": 71,
+    "opponentScore": 81
+  },
+  {
+    "date": "2025-11-15T20:30Z",
+    "opponent": "Radford Highlanders",
+    "isHome": false,
+    "isNeutral": true,
+    "result": "W",
+    "score": "92-59",
+    "teamScore": 92,
+    "opponentScore": 59
+  },
+  {
+    "date": "2025-11-16T17:00Z",
+    "opponent": "Kent State Golden Flashes",
+    "isHome": false,
+    "isNeutral": true,
+    "result": "L",
+    "score": "72-76",
+    "teamScore": 72,
+    "opponentScore": 76
+  },
+  {
+    "date": "2025-11-21T00:00Z",
+    "opponent": "Ohio Wesleyan Battling Bishops",
+    "isHome": true,
+    "isNeutral": false,
+    "result": "W",
+    "score": "100-47",
+    "teamScore": 100,
+    "opponentScore": 47
+  },
+  {
+    "date": "2025-11-26T00:00Z",
+    "opponent": "Stetson Hatters",
+    "isHome": false,
+    "isNeutral": false,
+    "result": "W",
+    "score": "79-62",
+    "teamScore": 79,
+    "opponentScore": 62
+  },
+  {
+    "date": "2025-11-28T19:00Z",
+    "opponent": "Butler Bulldogs",
+    "isHome": false,
+    "isNeutral": false,
+    "result": "L",
+    "score": "69-94",
+    "teamScore": 69,
+    "opponentScore": 94
+  },
+  {
+    "date": "2025-12-03T23:30Z",
+    "opponent": "Youngstown State Penguins",
+    "isHome": false,
+    "isNeutral": false,
+    "result": "L",
+    "score": "68-69",
+    "teamScore": 68,
+    "opponentScore": 69
+  },
+  {
+    "date": "2025-12-07T22:00Z",
+    "opponent": "Green Bay Phoenix",
+    "isHome": true,
+    "isNeutral": false,
+    "result": "W",
+    "score": "86-58",
+    "teamScore": 86,
+    "opponentScore": 58
+  },
+  {
+    "date": "2025-12-13T21:00Z",
+    "opponent": "Marshall Thundering Herd",
+    "isHome": false,
+    "isNeutral": false,
+    "result": "L",
+    "score": "74-76",
+    "teamScore": 74,
+    "opponentScore": 76
+  },
+  {
+    "date": "2025-12-17T00:00Z",
+    "opponent": "Miami (OH) RedHawks",
+    "isHome": true,
+    "isNeutral": false,
+    "result": "L",
+    "score": "76-83",
+    "teamScore": 76,
+    "opponentScore": 83
+  },
+  {
+    "date": "2025-12-23T00:00Z",
+    "opponent": "Eastern Michigan Eagles",
+    "isHome": true,
+    "isNeutral": false,
+    "result": "W",
+    "score": "70-64",
+    "teamScore": 70,
+    "opponentScore": 64
+  },
+  {
+    "date": "2025-12-30T00:00Z",
+    "opponent": "Oakland Golden Grizzlies",
+    "isHome": true,
+    "isNeutral": false,
+    "result": "W",
+    "score": "88-73",
+    "teamScore": 88,
+    "opponentScore": 73
+  },
+  {
+    "date": "2026-01-01T19:00Z",
+    "opponent": "Milwaukee Panthers",
+    "isHome": true,
+    "isNeutral": false,
+    "result": "W",
+    "score": "76-70",
+    "teamScore": 76,
+    "opponentScore": 70
+  },
+  {
+    "date": "2026-01-04T19:00Z",
+    "opponent": "IU Indianapolis Jaguars",
+    "isHome": false,
+    "isNeutral": false,
+    "result": "W",
+    "score": "81-77",
+    "teamScore": 81,
+    "opponentScore": 77
+  },
+  {
+    "date": "2026-01-10T00:00Z",
+    "opponent": "Detroit Mercy Titans",
+    "isHome": false,
+    "isNeutral": false,
+    "result": "W",
+    "score": "84-82",
+    "teamScore": 84,
+    "opponentScore": 82
+  },
+  {
+    "date": "2026-01-11T20:00Z",
+    "opponent": "Oakland Golden Grizzlies",
+    "isHome": false,
+    "isNeutral": false,
+    "result": "W",
+    "score": "94-84",
+    "teamScore": 94,
+    "opponentScore": 84
+  },
+  {
+    "date": "2026-01-16T00:00Z",
+    "opponent": "Youngstown State Penguins",
+    "isHome": true,
+    "isNeutral": false,
+    "result": "W",
+    "score": "93-83",
+    "teamScore": 93,
+    "opponentScore": 83
+  },
+  {
+    "date": "2026-01-22T00:00Z",
+    "opponent": "Cleveland State Vikings",
+    "isHome": true,
+    "isNeutral": false,
+    "result": "L",
+    "score": "79-85",
+    "teamScore": 79,
+    "opponentScore": 85
+  },
+  {
+    "date": "2026-01-24T18:00Z",
+    "opponent": "Northern Kentucky Norse",
+    "isHome": true,
+    "isNeutral": false,
+    "result": "W",
+    "score": "88-80",
+    "teamScore": 88,
+    "opponentScore": 80
+  },
+  {
+    "date": "2026-01-31T01:00Z",
+    "opponent": "Milwaukee Panthers",
+    "isHome": false,
+    "isNeutral": false,
+    "result": "W",
+    "score": "76-69",
+    "teamScore": 76,
+    "opponentScore": 69
+  },
+  {
+    "date": "2026-02-01T19:00Z",
+    "opponent": "Green Bay Phoenix",
+    "isHome": false,
+    "isNeutral": false,
+    "result": "W",
+    "score": "83-75",
+    "teamScore": 83,
+    "opponentScore": 75
+  },
+  {
+    "date": "2026-02-05T00:00Z",
+    "opponent": "Robert Morris Colonials",
+    "isHome": false,
+    "isNeutral": false,
+    "result": "L",
+    "score": "66-72",
+    "teamScore": 66,
+    "opponentScore": 72
+  },
+  {
+    "date": "2026-02-08T00:00Z",
+    "opponent": "Purdue Fort Wayne Mastodons",
+    "isHome": true,
+    "isNeutral": false,
+    "result": "W",
+    "score": "73-68",
+    "teamScore": 73,
+    "opponentScore": 68
+  },
+  {
+    "date": "2026-02-13T00:00Z",
+    "opponent": "Detroit Mercy Titans",
+    "isHome": true,
+    "isNeutral": false,
+    "result": "L",
+    "score": "74-77",
+    "teamScore": 74,
+    "opponentScore": 77
+  },
+  {
+    "date": "2026-02-15T19:00Z",
+    "opponent": "Cleveland State Vikings",
+    "isHome": false,
+    "isNeutral": false,
+    "result": "W",
+    "score": "102-90",
+    "teamScore": 102,
+    "opponentScore": 90
+  },
+  {
+    "date": "2026-02-20T00:00Z",
+    "opponent": "IU Indianapolis Jaguars",
+    "isHome": true,
+    "isNeutral": false,
+    "result": "W",
+    "score": "85-73",
+    "teamScore": 85,
+    "opponentScore": 73
+  },
+  {
+    "date": "2026-02-22T19:00Z",
+    "opponent": "Robert Morris Colonials",
+    "isHome": true,
+    "isNeutral": false,
+    "result": "L",
+    "score": "68-81",
+    "teamScore": 68,
+    "opponentScore": 81
+  },
+  {
+    "date": "2026-02-26T00:00Z",
+    "opponent": "Purdue Fort Wayne Mastodons",
+    "isHome": false,
+    "isNeutral": false,
+    "result": "W",
+    "score": "74-70",
+    "teamScore": 74,
+    "opponentScore": 70
+  },
+  {
+    "date": "2026-03-01T00:00Z",
+    "opponent": "Northern Kentucky Norse",
+    "isHome": false,
+    "isNeutral": false,
+    "result": "W",
+    "score": "92-91",
+    "teamScore": 92,
+    "opponentScore": 91
+  },
+  {
+    "date": "2026-03-05T00:00Z",
+    "opponent": "Cleveland State Vikings",
+    "isHome": true,
+    "isNeutral": false,
+    "result": "W",
+    "score": "90-61",
+    "teamScore": 90,
+    "opponentScore": 61
+  },
+  {
+    "date": "2026-03-09T23:00Z",
+    "opponent": "Northern Kentucky Norse",
+    "isHome": true,
+    "isNeutral": true,
+    "result": "W",
+    "score": "103-90",
+    "teamScore": 103,
+    "opponentScore": 90
+  },
+  {
+    "date": "2026-03-10T23:00Z",
+    "opponent": "Detroit Mercy Titans",
+    "isHome": true,
+    "isNeutral": true,
+    "result": "W",
+    "score": "66-63",
+    "teamScore": 66,
+    "opponentScore": 63
+  }
+]

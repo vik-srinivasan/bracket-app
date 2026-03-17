@@ -1,0 +1,34 @@
+{
+  "name": "bracket-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint",
+    "fetch-data": "tsx src/scripts/run-all.ts",
+    "fetch-barttorvik": "tsx src/scripts/fetch-barttorvik.ts",
+    "fetch-espn": "tsx src/scripts/fetch-espn-teams.ts",
+    "fetch-details": "tsx src/scripts/fetch-espn-details.ts",
+    "fetch-odds": "tsx src/scripts/fetch-odds.ts",
+    "merge-data": "tsx src/scripts/merge-team-data.ts"
+  },
+  "dependencies": {
+    "next": "16.1.6",
+    "react": "19.2.3",
+    "react-dom": "19.2.3",
+    "recharts": "^3.8.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "16.1.6",
+    "tailwindcss": "^4",
+    "tsx": "^4.21.0",
+    "typescript": "^5"
+  }
+}

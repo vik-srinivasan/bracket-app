@@ -1,0 +1,352 @@
+[
+  {
+    "date": "2025-11-04T02:30Z",
+    "opponent": "Washington State Cougars",
+    "isHome": false,
+    "isNeutral": false,
+    "result": "W",
+    "score": "83-81",
+    "teamScore": 83,
+    "opponentScore": 81
+  },
+  {
+    "date": "2025-11-08T02:00Z",
+    "opponent": "Whitman Missionaries",
+    "isHome": true,
+    "isNeutral": false,
+    "result": "W",
+    "score": "94-49",
+    "teamScore": 94,
+    "opponentScore": 49
+  },
+  {
+    "date": "2025-11-13T02:00Z",
+    "opponent": "San Diego Toreros",
+    "isHome": false,
+    "isNeutral": false,
+    "result": "L",
+    "score": "74-78",
+    "teamScore": 74,
+    "opponentScore": 78
+  },
+  {
+    "date": "2025-11-15T21:00Z",
+    "opponent": "UC San Diego Tritons",
+    "isHome": false,
+    "isNeutral": false,
+    "result": "L",
+    "score": "67-75",
+    "teamScore": 67,
+    "opponentScore": 75
+  },
+  {
+    "date": "2025-11-23T02:00Z",
+    "opponent": "Eastern Oregon Mountaineers",
+    "isHome": true,
+    "isNeutral": false,
+    "result": "W",
+    "score": "97-68",
+    "teamScore": 97,
+    "opponentScore": 68
+  },
+  {
+    "date": "2025-11-27T02:00Z",
+    "opponent": "Cal State Northridge Matadors",
+    "isHome": false,
+    "isNeutral": true,
+    "result": "W",
+    "score": "78-64",
+    "teamScore": 78,
+    "opponentScore": 64
+  },
+  {
+    "date": "2025-11-29T02:00Z",
+    "opponent": "Sam Houston Bearkats",
+    "isHome": true,
+    "isNeutral": true,
+    "result": "L",
+    "score": "68-94",
+    "teamScore": 68,
+    "opponentScore": 94
+  },
+  {
+    "date": "2025-12-04T02:00Z",
+    "opponent": "North Dakota Fighting Hawks",
+    "isHome": true,
+    "isNeutral": false,
+    "result": "W",
+    "score": "90-58",
+    "teamScore": 90,
+    "opponentScore": 58
+  },
+  {
+    "date": "2025-12-06T20:00Z",
+    "opponent": "South Dakota State Jackrabbits",
+    "isHome": false,
+    "isNeutral": false,
+    "result": "W",
+    "score": "84-81",
+    "teamScore": 84,
+    "opponentScore": 81
+  },
+  {
+    "date": "2025-12-11T00:00Z",
+    "opponent": "Notre Dame Fighting Irish",
+    "isHome": false,
+    "isNeutral": false,
+    "result": "L",
+    "score": "65-80",
+    "teamScore": 65,
+    "opponentScore": 80
+  },
+  {
+    "date": "2025-12-14T22:00Z",
+    "opponent": "Evergreen State Geoducks",
+    "isHome": true,
+    "isNeutral": false,
+    "result": "W",
+    "score": "109-55",
+    "teamScore": 109,
+    "opponentScore": 55
+  },
+  {
+    "date": "2025-12-22T00:00Z",
+    "opponent": "Cal Poly Mustangs",
+    "isHome": false,
+    "isNeutral": false,
+    "result": "W",
+    "score": "83-80",
+    "teamScore": 83,
+    "opponentScore": 80
+  },
+  {
+    "date": "2025-12-23T22:00Z",
+    "opponent": "Cal State Bakersfield Roadrunners",
+    "isHome": false,
+    "isNeutral": false,
+    "result": "L",
+    "score": "63-64",
+    "teamScore": 63,
+    "opponentScore": 64
+  },
+  {
+    "date": "2026-01-03T22:00Z",
+    "opponent": "Eastern Washington Eagles",
+    "isHome": true,
+    "isNeutral": false,
+    "result": "W",
+    "score": "84-81",
+    "teamScore": 84,
+    "opponentScore": 81
+  },
+  {
+    "date": "2026-01-09T02:00Z",
+    "opponent": "Montana Grizzlies",
+    "isHome": true,
+    "isNeutral": false,
+    "result": "L",
+    "score": "73-79",
+    "teamScore": 73,
+    "opponentScore": 79
+  },
+  {
+    "date": "2026-01-10T22:00Z",
+    "opponent": "Montana State Bobcats",
+    "isHome": true,
+    "isNeutral": false,
+    "result": "W",
+    "score": "92-89",
+    "teamScore": 92,
+    "opponentScore": 89
+  },
+  {
+    "date": "2026-01-16T02:00Z",
+    "opponent": "Idaho State Bengals",
+    "isHome": false,
+    "isNeutral": false,
+    "result": "L",
+    "score": "68-76",
+    "teamScore": 68,
+    "opponentScore": 76
+  },
+  {
+    "date": "2026-01-18T02:00Z",
+    "opponent": "Weber State Wildcats",
+    "isHome": false,
+    "isNeutral": false,
+    "result": "W",
+    "score": "75-67",
+    "teamScore": 75,
+    "opponentScore": 67
+  },
+  {
+    "date": "2026-01-23T02:00Z",
+    "opponent": "Sacramento State Hornets",
+    "isHome": true,
+    "isNeutral": false,
+    "result": "W",
+    "score": "86-76",
+    "teamScore": 86,
+    "opponentScore": 76
+  },
+  {
+    "date": "2026-01-24T22:00Z",
+    "opponent": "Portland State Vikings",
+    "isHome": true,
+    "isNeutral": false,
+    "result": "L",
+    "score": "66-69",
+    "teamScore": 66,
+    "opponentScore": 69
+  },
+  {
+    "date": "2026-01-30T02:00Z",
+    "opponent": "Northern Colorado Bears",
+    "isHome": false,
+    "isNeutral": false,
+    "result": "L",
+    "score": "83-91",
+    "teamScore": 83,
+    "opponentScore": 91
+  },
+  {
+    "date": "2026-02-01T01:00Z",
+    "opponent": "Northern Arizona Lumberjacks",
+    "isHome": false,
+    "isNeutral": false,
+    "result": "W",
+    "score": "79-62",
+    "teamScore": 79,
+    "opponentScore": 62
+  },
+  {
+    "date": "2026-02-06T02:00Z",
+    "opponent": "Montana State Bobcats",
+    "isHome": false,
+    "isNeutral": false,
+    "result": "L",
+    "score": "66-73",
+    "teamScore": 66,
+    "opponentScore": 73
+  },
+  {
+    "date": "2026-02-07T23:00Z",
+    "opponent": "Montana Grizzlies",
+    "isHome": false,
+    "isNeutral": false,
+    "result": "L",
+    "score": "68-73",
+    "teamScore": 68,
+    "opponentScore": 73
+  },
+  {
+    "date": "2026-02-13T02:00Z",
+    "opponent": "Weber State Wildcats",
+    "isHome": true,
+    "isNeutral": false,
+    "result": "L",
+    "score": "72-83",
+    "teamScore": 72,
+    "opponentScore": 83
+  },
+  {
+    "date": "2026-02-14T22:00Z",
+    "opponent": "Idaho State Bengals",
+    "isHome": true,
+    "isNeutral": false,
+    "result": "W",
+    "score": "99-69",
+    "teamScore": 99,
+    "opponentScore": 69
+  },
+  {
+    "date": "2026-02-20T02:00Z",
+    "opponent": "Portland State Vikings",
+    "isHome": false,
+    "isNeutral": false,
+    "result": "L",
+    "score": "67-77",
+    "teamScore": 67,
+    "opponentScore": 77
+  },
+  {
+    "date": "2026-02-22T03:00Z",
+    "opponent": "Sacramento State Hornets",
+    "isHome": false,
+    "isNeutral": false,
+    "result": "W",
+    "score": "86-80",
+    "teamScore": 86,
+    "opponentScore": 80
+  },
+  {
+    "date": "2026-02-27T02:00Z",
+    "opponent": "Northern Arizona Lumberjacks",
+    "isHome": true,
+    "isNeutral": false,
+    "result": "W",
+    "score": "78-58",
+    "teamScore": 78,
+    "opponentScore": 58
+  },
+  {
+    "date": "2026-02-28T21:00Z",
+    "opponent": "Northern Colorado Bears",
+    "isHome": true,
+    "isNeutral": false,
+    "result": "L",
+    "score": "67-76",
+    "teamScore": 67,
+    "opponentScore": 76
+  },
+  {
+    "date": "2026-03-03T02:00Z",
+    "opponent": "Eastern Washington Eagles",
+    "isHome": false,
+    "isNeutral": false,
+    "result": "W",
+    "score": "85-81",
+    "teamScore": 85,
+    "opponentScore": 81
+  },
+  {
+    "date": "2026-03-08T03:00Z",
+    "opponent": "Sacramento State Hornets",
+    "isHome": true,
+    "isNeutral": true,
+    "result": "W",
+    "score": "68-45",
+    "teamScore": 68,
+    "opponentScore": 45
+  },
+  {
+    "date": "2026-03-09T02:20Z",
+    "opponent": "Montana State Bobcats",
+    "isHome": false,
+    "isNeutral": true,
+    "result": "W",
+    "score": "78-74",
+    "teamScore": 78,
+    "opponentScore": 74
+  },
+  {
+    "date": "2026-03-11T03:50Z",
+    "opponent": "Eastern Washington Eagles",
+    "isHome": false,
+    "isNeutral": true,
+    "result": "W",
+    "score": "81-68",
+    "teamScore": 81,
+    "opponentScore": 68
+  },
+  {
+    "date": "2026-03-12T03:40Z",
+    "opponent": "Montana Grizzlies",
+    "isHome": false,
+    "isNeutral": true,
+    "result": "W",
+    "score": "77-66",
+    "teamScore": 77,
+    "opponentScore": 66
+  }
+]
