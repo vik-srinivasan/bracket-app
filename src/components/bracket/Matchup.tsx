@@ -83,7 +83,7 @@ export default function Matchup({
             e.stopPropagation();
             onOpenDetail(matchup.id);
           }}
-          className={`absolute top-0 bottom-0 w-7 flex items-center justify-center text-slate-600 hover:text-amber-400 hover:bg-slate-700/30 transition-all opacity-0 group-hover:opacity-100 ${mirrored ? "left-0 rounded-l-lg" : "right-0 rounded-r-lg"}`}
+          className="absolute top-0 bottom-0 w-7 flex items-center justify-center text-slate-600 hover:text-amber-400 hover:bg-slate-700/30 transition-all right-0 rounded-r-lg"
           title="View matchup analytics"
         >
           <svg className="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -148,7 +148,7 @@ function TeamRow({
     <div
       className={`flex items-center gap-1 px-1 py-[3px] min-w-0 ${
         isTop ? "border-b border-slate-800/40" : ""
-      } ${mirrored ? "flex-row-reverse" : ""} ${
+      } ${
         isPicked
           ? "bg-emerald-500/10"
           : otherPicked
@@ -164,7 +164,6 @@ function TeamRow({
         }}
         disabled={!canPick}
         className={`flex items-center gap-1 min-w-0 flex-1 px-1 py-0.5 rounded transition-all
-          ${mirrored ? "flex-row-reverse" : ""}
           ${
             canPick
               ? "hover:bg-slate-700/40 cursor-pointer active:scale-[0.98]"
@@ -193,15 +192,10 @@ function TeamRow({
               : otherPicked
                 ? "text-slate-500"
                 : "text-white font-medium"
-          } ${mirrored ? "text-right" : "text-left"}`}
+          } text-left`}
         >
           {team.teamName}
         </span>
-        {teamInfo?.rankings.kenpomRank && (
-          <span className={`text-[9px] font-mono shrink-0 ${isPicked ? "text-emerald-400/50" : "text-slate-400"}`}>
-            {teamInfo.rankings.kenpomRank}
-          </span>
-        )}
         {isPicked && (
           <span className="text-emerald-400 text-[11px] shrink-0">&#10003;</span>
         )}

@@ -31,10 +31,10 @@ function RoundColumn({
   isFirst: boolean;
 }) {
   return (
-    <div className="flex flex-col min-w-[155px] max-w-[172px]">
+    <div className="flex flex-col w-[170px]">
       {isFirst && (
         <div
-          className={`text-[9px] font-semibold text-slate-500 uppercase tracking-[0.1em] mb-2 ${mirrored ? "text-right" : "text-left"} px-1`}
+          className="text-[9px] font-semibold text-slate-500 uppercase tracking-[0.1em] mb-2 text-left px-1"
         >
           {getRoundName(round)}
         </div>
@@ -111,7 +111,7 @@ export default function Region({
 
   return (
     <div className="flex flex-col">
-      <div className={`flex items-baseline gap-2 mb-3 ${mirrored ? "flex-row-reverse" : ""}`}>
+      <div className="flex items-baseline gap-2 mb-3">
         <span className="text-sm font-bold text-amber-400/90 tracking-wide">
           {region.name}
         </span>
