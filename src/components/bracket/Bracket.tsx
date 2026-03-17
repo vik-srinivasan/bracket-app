@@ -46,13 +46,13 @@ export default function Bracket({
               style={{ width: `${pct}%` }}
             />
           </div>
-          <span className="text-[11px] text-slate-400 font-mono tabular-nums">
-            {pickCount}<span className="text-slate-600">/{totalMatchups}</span>
+          <span className="text-[11px] text-slate-300 font-mono tabular-nums">
+            {pickCount}<span className="text-slate-500">/{totalMatchups}</span>
           </span>
           {pickCount > 0 ? (
             <button
               onClick={onReset}
-              className="text-[10px] text-slate-600 hover:text-red-400 transition-colors ml-1"
+              className="text-[10px] text-slate-500 hover:text-red-400 transition-colors ml-1"
             >
               Reset
             </button>

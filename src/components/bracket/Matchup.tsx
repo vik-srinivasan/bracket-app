@@ -62,7 +62,6 @@ export default function Matchup({
           matchup.topTeam &&
           onPickWinner(matchup.id, matchup.topTeam.teamId)
         }
-        onDetail={() => hasAnyTeam && onOpenDetail(matchup.id)}
       />
       <TeamRow
         team={matchup.bottomTeam}
@@ -75,8 +74,24 @@ export default function Matchup({
           matchup.bottomTeam &&
           onPickWinner(matchup.id, matchup.bottomTeam.teamId)
         }
-        onDetail={() => hasAnyTeam && onOpenDetail(matchup.id)}
       />
+
+      {/* Single info button for the whole matchup */}
+      {hasAnyTeam && (
+        <button
+          onClick={(e) => {
+            e.stopPropagation();
+            onOpenDetail(matchup.id);
+          }}
+          className="absolute top-0 bottom-0 right-0 w-7 flex items-center justify-center text-slate-600 hover:text-amber-400 hover:bg-slate-700/30 transition-all rounded-r-lg opacity-0 group-hover:opacity-100"
+          title="View matchup analytics"
+        >
+          <svg className="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+          </svg>
+        </button>
+      )}
+
       {/* Win probability bar */}
       {hasBothTeams && (
         <div className="absolute inset-x-0 bottom-0 h-[2px] rounded-b-lg overflow-hidden flex opacity-60">
@@ -108,7 +123,6 @@ function TeamRow({
   isTop,
   mirrored,
   onPick,
-  onDetail,
 }: {
   team: { seed: number; teamId: string; teamName: string } | null;
   isPicked: boolean;
@@ -117,14 +131,13 @@ function TeamRow({
   isTop: boolean;
   mirrored?: boolean;
   onPick: () => void;
-  onDetail: () => void;
 }) {
   if (!team) {
     return (
       <div
         className={`flex items-center gap-2 px-2.5 py-1.5 min-w-0 ${isTop ? "border-b border-slate-800/40" : ""}`}
       >
-        <span className="text-[10px] text-slate-700 italic">TBD</span>
+        <span className="text-[11px] text-slate-600 italic">TBD</span>
       </div>
     );
   }
@@ -162,7 +175,7 @@ function TeamRow({
         title={canPick ? `Pick ${team.teamName} to advance` : undefined}
       >
         <span
-          className={`text-[10px] font-bold w-5 h-5 flex items-center justify-center rounded border shrink-0 ${getSeedBgColor(team.seed)} ${getSeedColor(team.seed)}`}
+          className={`text-[11px] font-bold w-5 h-5 flex items-center justify-center rounded border shrink-0 ${getSeedBgColor(team.seed)} ${getSeedColor(team.seed)}`}
         >
           {team.seed}
         </span>
@@ -174,38 +187,24 @@ function TeamRow({
           />
         )}
         <span
-          className={`text-[11px] truncate flex-1 transition-colors ${
+          className={`text-[12px] truncate flex-1 transition-colors ${
             isPicked
               ? "text-emerald-400 font-semibold"
               : otherPicked
                 ? "text-slate-500"
-                : "text-slate-200 font-medium"
+                : "text-white font-medium"
           } ${mirrored ? "text-right" : "text-left"}`}
         >
           {team.teamName}
         </span>
         {teamInfo?.rankings.kenpomRank && (
-          <span className={`text-[8px] font-mono shrink-0 ${isPicked ? "text-emerald-400/50" : "text-slate-500"}`}>
+          <span className={`text-[9px] font-mono shrink-0 ${isPicked ? "text-emerald-400/50" : "text-slate-400"}`}>
             {teamInfo.rankings.kenpomRank}
           </span>
         )}
         {isPicked && (
-          <span className="text-emerald-400 text-[10px] shrink-0">&#10003;</span>
+          <span className="text-emerald-400 text-[11px] shrink-0">&#10003;</span>
         )}
-      </button>
-
-      {/* Detail button */}
-      <button
-        onClick={(e) => {
-          e.stopPropagation();
-          onDetail();
-        }}
-        className="text-slate-700 hover:text-amber-400 transition-colors p-0.5 shrink-0 opacity-0 group-hover:opacity-100"
-        title="View matchup analytics"
-      >
-        <svg className="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
-        </svg>
       </button>
     </div>
   );

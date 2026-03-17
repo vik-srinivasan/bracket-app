@@ -65,7 +65,7 @@ function BracketPageInner() {
                   <h1 className="text-lg font-bold tracking-tight text-white leading-tight">
                     March Madness <span className="text-amber-400">2026</span>
                   </h1>
-                  <p className="text-slate-600 text-[10px] leading-tight">
+                  <p className="text-slate-500 text-[10px] leading-tight">
                     NCAA Tournament Bracket
                   </p>
                 </div>
@@ -74,8 +74,8 @@ function BracketPageInner() {
           </div>
 
           <div className="flex items-center gap-3">
-            <p className="text-slate-600 text-[10px] hidden sm:block">
-              Click team to pick · Click <span className="text-amber-400/70">ⓘ</span> for analytics
+            <p className="text-slate-500 text-[10px] hidden sm:block">
+              Click team to pick · Hover for <span className="text-amber-400/70">ⓘ</span> analytics
             </p>
             {pickCount > 0 && (
               <button
