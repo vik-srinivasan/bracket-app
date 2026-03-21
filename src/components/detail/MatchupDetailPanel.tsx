@@ -11,6 +11,7 @@ import KeyPlayersSection from "./KeyPlayersSection";
 import ScheduleHistory from "./ScheduleHistory";
 import VegasOddsCard from "./VegasOddsCard";
 import FutureMatchups from "./FutureMatchups";
+import AIPredictionCard from "./AIPredictionCard";
 
 interface MatchupDetailPanelProps {
   matchup: BracketMatchup;
@@ -127,6 +128,12 @@ export default function MatchupDetailPanel({
 
         {/* Content sections */}
         <div className="px-4 pb-8 space-y-3">
+          <AIPredictionCard
+            teamA={teamA}
+            teamB={teamB}
+            matchupId={matchup.id}
+          />
+
           <VegasOddsCard
             odds={matchOdds}
             teamA={teamA}
